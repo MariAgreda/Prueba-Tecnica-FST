@@ -5,4 +5,4 @@
 2. **Registro:** Formulario simplificado (Nombre, RUC, Contacto) para agilidad en campo.
 3. **Detalle:** Enfoque en la acción con botones directos a WhatsApp y Llamada.
 
-**Herramienta usada:** Figma (Baja fidelidad).
+**Herramienta usada:** Figma.
